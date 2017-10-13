@@ -1,0 +1,14 @@
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.csprojResolveAssemblyReference.cache
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\MainWindow.g.cs
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\App.g.cs
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile_MarkupCompile.cache
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile_MarkupCompile.lref
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\bin\Debug\CodeInOneFile.exe
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\bin\Debug\CodeInOneFile.pdb
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\MainWindow.baml
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.g.resources
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.Properties.Resources.resources
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.csproj.GenerateResource.Cache
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.csproj.CoreCompileInputs.cache
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.exe
+H:\huhai\GitHubRepo\CodeIntegration\CodeInOneFile\obj\Debug\CodeInOneFile.pdb
